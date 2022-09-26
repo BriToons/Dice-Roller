@@ -1,0 +1,32 @@
+body{
+   background-color: aqua;
+}
+
+.dice{
+   display: inline-block;
+   text-align: center;
+}
+
+.container{
+   text-align: center;
+   width: 80%;
+   margin: 30px auto;
+
+}
+
+h1{
+   font-size: 60px;
+}
+
+h3{
+   font-size: 20px;
+}
+
+.buttn{
+   background-color: crimson;
+   border: none;
+   text-align: center;
+   padding: 15px 32px;
+   display: inline-block;
+   font-size: 16px;
+}
